@@ -14,17 +14,17 @@ This advanced JavaScript course is designed for experienced developers looking t
 ### [Module 1: Advanced JavaScript Concepts](./module-1-advanced-javascript-concepts.md)
 
 - 1.1. [Closures and Scopes](./module-1.1-closures-and-scopes.md)
-- 1.2. [Promises and Async/Await](#promises-and-asyncawait)
-- 1.3. [Functional Programming](#functional-programming)
-- 1.4. [Design Patterns](#design-patterns)
-- 1.5. [Event Loop and Concurrency](#event-loop-and-concurrency)
+- 1.2. [Promises and Async/Await](./module-1.2-promises-and-async-await.md)
+- 1.3. [Functional Programming](./module-1.3-functional-programming.md)
+- 1.4. [Design Patterns](./module-1.4-design-patterns.md)
+- 1.5. [Event Loop and Concurrency](./module-1.5-event-loop-and-concurrency.md)
 
-### [Module 2: Object-Oriented Programming (OOP) in JavaScript](#module-2-object-oriented-programming-oop-in-javascript)
+### [Module 2: Object-Oriented Programming (OOP) in JavaScript](./module-2-object-oriented-programming-oop-in-javascript.md)
 
-2.1. [Constructors and Prototypes](#constructors-and-prototypes)
-2.2. [Classes and Inheritance](#classes-and-inheritance)
-2.3. [Mixins and Composition](#mixins-and-composition)
-2.4. [Private and Static Members](#private-and-static-members)
+- 2.1. [Constructors and Prototypes](./module-2.1-constructors-and-prototypes.md)
+- 2.2. [Classes and Inheritance](#classes-and-inheritance)
+- 2.3. [Mixins and Composition](#mixins-and-composition)
+- 2.4. [Private and Static Members](#private-and-static-members)
 
 ### [Module 3: Advanced DOM Manipulation](#module-3-advanced-dom-manipulation)
 3.1. [Traversing and Selecting DOM Elements](#traversing-and-selecting-dom-elements)
