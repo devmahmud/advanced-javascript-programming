@@ -98,5 +98,3 @@ The module includes practical examples and hands-on exercises for each topic. Th
 **Key Takeaways:**
 
 By mastering constructors, prototypes, classes, inheritance, mixins, composition, private members, and static members, you'll become proficient in structuring your JavaScript code in a way that promotes reusability, organization, and efficiency. These OOP techniques empower you to create maintainable and robust applications.
-
-
