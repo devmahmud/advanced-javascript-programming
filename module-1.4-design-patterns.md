@@ -1,4 +1,5 @@
 ## Module 1: Advanced JavaScript Concepts
+
 ### 1.4. Design Patterns
 
 Design patterns are reusable solutions to common problems that arise during software design and development. In JavaScript, as in any other programming language, design patterns help developers create maintainable and efficient code by following established best practices. Let's explore some design patterns in-depth with examples:
