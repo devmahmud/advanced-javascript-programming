@@ -1,10 +1,10 @@
-**Course Title: Advanced JavaScript Programming**
-**Course Duration: XX weeks**
+# Course Title: Advanced JavaScript Programming
 
 **Course Description:**
 This advanced JavaScript course is designed for experienced developers looking to deepen their understanding of JavaScript and expand their skills in web development and software engineering. The course covers advanced topics and best practices, enabling students to build complex applications and optimize existing ones.
 
 **Prerequisites:**
+
 - Proficiency in [basic JavaScript](#module-1-advanced-javascript-concepts)
 - Familiarity with [HTML](#module-3-advanced-dom-manipulation) and [CSS](#module-3-advanced-dom-manipulation)
 - Experience with [web development](#module-3-advanced-dom-manipulation)
@@ -22,21 +22,23 @@ This advanced JavaScript course is designed for experienced developers looking t
 ### [Module 2: Object-Oriented Programming (OOP) in JavaScript](./module-2-object-oriented-programming-oop-in-javascript.md)
 
 - 2.1. [Constructors and Prototypes](./module-2.1-constructors-and-prototypes.md)
-- 2.2. [Classes and Inheritance](#classes-and-inheritance)
-- 2.3. [Mixins and Composition](#mixins-and-composition)
-- 2.4. [Private and Static Members](#private-and-static-members)
+- 2.2. [Classes and Inheritance](./module-2.2-classes-and-inheritance.md)
+- 2.3. [Mixins and Composition](./module-2.3-mixins-and-composition.md)
+- 2.4. [Private and Static Members](./module-2.4-private-and-static-members.md)
 
 ### [Module 3: Advanced DOM Manipulation](./module-3-advanced-dom-manipulation.md)
 
 - 3.1. [Traversing and Selecting DOM Elements](./module-3.1-traversing-and-selecting-dom-elements.md)
-- 3.2. [Creating and Modifying DOM Elements](#creating-and-modifying-dom-elements)
-- 3.3. [Event Handling and Delegation](#event-handling-and-delegation)
-- 3.4. [Web APIs and AJAX](#web-apis-and-ajax)
+- 3.2. [Creating and Modifying DOM Elements](./module-3.2-creating-and-modifying-dom-elements.md)
+- 3.3. [Event Handling and Delegation](./module-3.3-event-handling-and-delegation.md)
+- 3.4. [Web APIs and AJAX](./module-3.4-web-apis-and-ajax.md)
 
-### [Module 4: Error Handling and Debugging](#module-4-error-handling-and-debugging)
-4.1. [Error Handling Best Practices](#error-handling-best-practices)
-4.2. [Debugging Techniques and Tools](#debugging-techniques-and-tools)
-4.3. [Error Logging and Reporting](#error-logging-and-reporting)
+### [Module 4: Error Handling and Debugging](./module-4-error-handling-and-debugging.md)
+
+- 4.1. [Error Handling Best Practices](./module-4.1-types-of-errors.md)
+- 4.2. [Debugging Techniques and Tools](./module-4.2-debugging-tools.md)
+- 4.3. [Error Logging and Reporting](./module-4.3-error-handling-techniques.md)
+- 4.4. [Best Practices](./module-4.4-best-practices.md)
 
 ### [Module 5: Advanced ES6 and Beyond](#module-5-advanced-es6-and-beyond)
 5.1. [Destructuring and Spreading](#destructuring-and-spreading)
