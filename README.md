@@ -26,11 +26,12 @@ This advanced JavaScript course is designed for experienced developers looking t
 - 2.3. [Mixins and Composition](#mixins-and-composition)
 - 2.4. [Private and Static Members](#private-and-static-members)
 
-### [Module 3: Advanced DOM Manipulation](#module-3-advanced-dom-manipulation)
-3.1. [Traversing and Selecting DOM Elements](#traversing-and-selecting-dom-elements)
-3.2. [Creating and Modifying DOM Elements](#creating-and-modifying-dom-elements)
-3.3. [Event Handling and Delegation](#event-handling-and-delegation)
-3.4. [Web APIs and AJAX](#web-apis-and-ajax)
+### [Module 3: Advanced DOM Manipulation](./module-3-advanced-dom-manipulation.md)
+
+- 3.1. [Traversing and Selecting DOM Elements](./module-3.1-traversing-and-selecting-dom-elements.md)
+- 3.2. [Creating and Modifying DOM Elements](#creating-and-modifying-dom-elements)
+- 3.3. [Event Handling and Delegation](#event-handling-and-delegation)
+- 3.4. [Web APIs and AJAX](#web-apis-and-ajax)
 
 ### [Module 4: Error Handling and Debugging](#module-4-error-handling-and-debugging)
 4.1. [Error Handling Best Practices](#error-handling-best-practices)
