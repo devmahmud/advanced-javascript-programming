@@ -1,5 +1,3 @@
-Sure, here's the advanced JavaScript course outline using Markdown, with links for each section:
-
 **Course Title: Advanced JavaScript Programming**
 **Course Duration: XX weeks**
 
@@ -13,14 +11,16 @@ This advanced JavaScript course is designed for experienced developers looking t
 
 ## Course Outline
 
-### [Module 1: Advanced JavaScript Concepts](#module-1-advanced-javascript-concepts)
-1.1. [Closures and Scopes](#closures-and-scopes)
-1.2. [Promises and Async/Await](#promises-and-asyncawait)
-1.3. [Functional Programming](#functional-programming)
-1.4. [Design Patterns](#design-patterns)
-1.5. [Event Loop and Concurrency](#event-loop-and-concurrency)
+### [Module 1: Advanced JavaScript Concepts](./module-1-advanced-javascript-concepts.md)
+
+- 1.1. [Closures and Scopes](./closure-and-scopes.md)
+- 1.2. [Promises and Async/Await](#promises-and-asyncawait)
+- 1.3. [Functional Programming](#functional-programming)
+- 1.4. [Design Patterns](#design-patterns)
+- 1.5. [Event Loop and Concurrency](#event-loop-and-concurrency)
 
 ### [Module 2: Object-Oriented Programming (OOP) in JavaScript](#module-2-object-oriented-programming-oop-in-javascript)
+
 2.1. [Constructors and Prototypes](#constructors-and-prototypes)
 2.2. [Classes and Inheritance](#classes-and-inheritance)
 2.3. [Mixins and Composition](#mixins-and-composition)
