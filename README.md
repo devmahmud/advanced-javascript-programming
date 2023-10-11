@@ -13,7 +13,7 @@ This advanced JavaScript course is designed for experienced developers looking t
 
 ### [Module 1: Advanced JavaScript Concepts](./module-1-advanced-javascript-concepts.md)
 
-- 1.1. [Closures and Scopes](./closure-and-scopes.md)
+- 1.1. [Closures and Scopes](./module-1.1-closures-and-scopes.md)
 - 1.2. [Promises and Async/Await](#promises-and-asyncawait)
 - 1.3. [Functional Programming](#functional-programming)
 - 1.4. [Design Patterns](#design-patterns)
