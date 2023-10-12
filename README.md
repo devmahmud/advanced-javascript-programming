@@ -60,7 +60,7 @@ This advanced JavaScript course is designed for experienced developers looking t
 - 4.8. [Error Reporting Services](./module-4.8-error-reporting-services.md)
 - 4.9. [Best Practices](./module-4.9-best-practices.md)
 
-### Module 5: Advanced ES6 and Beyond
+### [Module 5: Advanced ES6 and Beyond](./module-5-advanced-es6-and-beyond.md)
 
 - 5.1. [Destructuring and Spreading](./module-5.1-destructuring-and-spreading.md)
 - 5.2. [Generators and Iterators](./module-5.2-generators-and-iterators.md)
@@ -70,7 +70,7 @@ This advanced JavaScript course is designed for experienced developers looking t
 - 5.6. [New Data Structures in ES6](./module-5.6-new-data-structures-in-es6.md)
 - 5.7. [Enhancements in ES7 and Beyond](./module-5.7-enhancements-in-es7-and-beyond.md)
 
-### Module 6: Asynchronous Programming
+### [Module 6: Asynchronous Programming](./module-6-asynchronous-programming.md)
 
 - 6.1. [Asynchronous Patterns](./module-6.1-asynchronous-patterns.md)
 - 6.2. [Working with Web Workers](./module-6.2-working-with-web-workers.md)
@@ -82,7 +82,7 @@ This advanced JavaScript course is designed for experienced developers looking t
 - 6.8. [Concurrency Control and Locks](./module-6.8-concurrency-control-and-locks.md)
 - 6.9. [Managing Asynchronous Dependencies](./module-6.9-managing-asynchronous-dependencies.md)
 
-### Module 7: Performance Optimization
+### [Module 7: Performance Optimization](./module-7-performance-optimization.md)
 
 - 7.1. [Profiling and Benchmarking](./module-7.1-profiling-and-benchmarking.md)
 - 7.2. [Optimizing JavaScript Execution](./module-7.2-optimizing-javascript-execution.md)
@@ -92,7 +92,7 @@ This advanced JavaScript course is designed for experienced developers looking t
 - 7.6. [Rendering Performance Techniques](./module-7.6-rendering-performance-techniques.md)
 - 7.7. [Mobile Performance Optimization](./module-7.7-mobile-performance-optimization.md)
 
-### Module 8: Testing and Quality Assurance
+### [Module 8: Testing and Quality Assurance](./module-8-testing-and-quality-assurance.md)
 
 - 8.1. [Unit Testing with Mocha and Chai](./module-8.1-unit-testing-with-mocha-and-chai.md)
 - 8.2. [Integration and E2E Testing](./module-8.2-integration-and-e2e-testing.md)
@@ -101,7 +101,7 @@ This advanced JavaScript course is designed for experienced developers looking t
 - 8.5. [Test Automation with Selenium](./module-8.5-test-automation-with-selenium.md)
 - 8.6. [Security Testing and Best Practices](./module-8.6-security-testing-and-best-practices.md)
 
-### Module 9: Security and Best Practices
+### [Module 9: Security and Best Practices](./module-9-security-and-best-practices.md)
 
 - 9.1. [Cross-Site Scripting (XSS) and Cross-Site Request Forgery (CSRF)](./module-9.1-cross-site-scripting-and-cross-site-request-forgery.md)
 - 9.2. [Content Security Policy (CSP)](./module-9.2-content-security-policy.md)
@@ -110,7 +110,7 @@ This advanced JavaScript course is designed for experienced developers looking t
 - 9.5. [Security in Node.js Applications](./module-9.5-security-in-nodejs-applications.md)
 - 9.6. [Data Encryption and SSL/TLS](./module-9.6-data-encryption-and-ssl-tls.md)
 
-### Module 10: Advanced Topics
+### [Module 10: Advanced Topics](./module-10-advanced-topics.md)
 
 - 10.1. [Server-Side Rendering (SSR) with Node.js](./module-10.1-server-side-rendering-with-nodejs.md)
 - 10.2. [Progressive Web Apps (PWAs)](./module-10.2-progressive-web-apps-pwas.md)
@@ -118,7 +118,7 @@ This advanced JavaScript course is designed for experienced developers looking t
 - 10.4. [Browser DevTools and Extensions](./module-10.4-browser-devtools-and-extensions.md)
 - 10.5. [Microservices and Service-Oriented Architecture (SOA)](./module-10.5-microservices-and-service-oriented-architecture.md)
 
-### Module 11: Project Development
+### [Module 11: Project Development](./module-11-project-development.md)
 
 - 11.1. [Final Project: Building an Advanced JavaScript Application](./module-11.1-final-project-building-advanced-javascript-application.md)
 - 11.2. [Code Review and Optimization](./module-11.2-code-review-and-optimization.md)
@@ -126,7 +126,7 @@ This advanced JavaScript course is designed for experienced developers looking t
 - 11.4. [Project Management and Collaboration Tools](./module-11.4-project-management-and-collaboration-tools.md)
 - 11.5. [Version Control with Git and GitHub](./module-11.5-version-control-with-git-and-github.md)
 
-### Module 12: Future Trends and Beyond
+### [Module 12: Future Trends and Beyond](./module-12-future-trends-and-beyond.md)
 
 - 12.1. [Serverless Computing and JavaScript](./module-12.1-serverless-computing-and-javascript.md)
 - 12.2. [Blockchain and Cryptocurrency with JavaScript](./module-12.2-blockchain-and-cryptocurrency-with-javascript.md)
