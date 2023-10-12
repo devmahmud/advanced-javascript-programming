@@ -1,6 +1,6 @@
-# Module 1: Advanced JavaScript Concepts**
+## Module 1: Advanced JavaScript Concepts
 
-## 1.3. Functional Programming**
+### 1.3. Functional Programming
 
 **Description:**
 
